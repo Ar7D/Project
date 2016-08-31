@@ -23,8 +23,6 @@ img {
 }
 
 
-
-
 .button { 
     background-color: #00823b; /* Green */
     border: none;
@@ -32,7 +30,7 @@ img {
     padding: 10px 15px 5px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;}
