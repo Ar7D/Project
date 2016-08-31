@@ -1,4 +1,26 @@
-  body {
+* {
+    box-sizing: border-box;
+}
+.header {
+    border: 1px solid red;
+    padding: 15px;
+}
+.menu {
+    width: 25%;
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}
+.main {
+    width: 75%;
+    height: 100%;
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+} 
+
+
+body {
     background-color: #f8f8f8; 
       
   }
@@ -15,10 +37,6 @@
     left: 25px;
     top: 25px;
     z-index: -1;
-    }
-    
-    .first  {
-    font-family:new transport;
     }
     
      .demo  {
