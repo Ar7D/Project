@@ -23,7 +23,7 @@ img {
 }
 
 
-.button {
+.button1 {
     background-color: #00823b;
     position: relative;
     display: inline-block;
@@ -42,7 +42,7 @@ img {
     background-color: #00823b; /* Green */
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 15px 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
