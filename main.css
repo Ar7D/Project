@@ -23,6 +23,15 @@ img {
 }
 
 
+.box2 {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin: 1em;
+}
+
+
+
 .button { 
     background-color: #00823b; /* Green */
     border: none;
@@ -30,7 +39,7 @@ img {
     padding: 10px 15px 5px;
     text-align: center;
     text-decoration: none;
-    display: block;
+    display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;}
