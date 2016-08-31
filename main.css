@@ -3,26 +3,6 @@
       
   }
   
-  .wrapper {
-  height: 100%;
-  display: table;
-  width: 100%;
-  text-align: center;
-  
-  .header {
-  display: table-row;
-  height: 1px;
-  background: #000000;
-}
-  
-  
-  .footer {
-  display: table-row;
-  height:1px;
-  background: @green;
-  color: #000000;
-}
-  
   
   h1  {
     margin-top: 80px; 
