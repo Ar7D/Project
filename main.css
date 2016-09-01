@@ -67,18 +67,18 @@ h3  {
     }
     
      .demo  {
-    font-family:new transport;
+    font-family:Arial;
     padding-top:20px;   
     }
 
     .button {
     margin: 10px;
-    font-family:new transport;
-    background-color: #00823b;
+    font-family:Arial;
+    background-color: #00823B; 
     padding: 12px;
     font-size: 16px;
     text-decoration: none;
-    color: white;
+    color: #FFFFFF;
     text-align: center;
     width: 235px;
 }
