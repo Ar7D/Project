@@ -66,7 +66,7 @@ h3  {
     position: absolute;
     left: 15px;
     top: 15px;
-    z-index: -1;
+    
     }
     
      .demo  {
@@ -85,10 +85,9 @@ h3  {
     color: #FFFFFF;
     text-align: center;
     width: 235px;
-    
+    cursor: pointer;
 }
 
 .button:hover {
-  // note: 100% is baseline so 85% is slightly darker, 20% would be significantly darker
   filter: brightness(85%);
 }
