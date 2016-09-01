@@ -39,21 +39,24 @@ body {
     }
     
     h2  {
-    margin-top: 36px; 
+
+    font-size: 36px;
     font-weight: bold;
     color: #000000;
     font-family: Arial;
     }
 
 h3  {
-    margin-top: 24px; 
+    
+    font-size: 24px;
     font-weight: bold;
     color: #000000;
     font-family: Arial;
     }
     
     h4  {
-    margin-top: 19px; 
+   
+    font-size: 19px;
     font-weight: bold;
     color: #000000;
     font-family: Arial;
