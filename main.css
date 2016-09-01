@@ -85,4 +85,10 @@ h3  {
     color: #FFFFFF;
     text-align: center;
     width: 235px;
+    
+}
+
+.button:hover {
+  // note: 100% is baseline so 85% is slightly darker, 20% would be significantly darker
+  filter: brightness(85%);
 }
