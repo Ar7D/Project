@@ -23,7 +23,8 @@ The javascript function used to display the applicant information was the onclic
     document.getElementById("demo").innerHTML = "You've just clicked on Mathew Jones. Test for onclick javascript function completed!";
     console.log ("event happened")
     
-**Test**
+Test
+====
 Please follow the link to see the above javascript in action:
 
 http://js.do/code/mathewjones
