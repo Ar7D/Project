@@ -29,7 +29,7 @@ Please follow the link to see the test javascript demonstrated:
 
 http://js.do/code/mathewjones
 
-USE
+Use
 ===
 
 To use this web application please follow the link below and click on one of the applicant's names displayed on button on the left hand side of the page. Once clicked the candidate's information will be displayed on the right hand side of the screen. 
