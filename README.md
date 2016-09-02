@@ -9,7 +9,7 @@ Project: Simple Web Application
 Build
 =====
 
-This project was built directly in github using html, css, and javascript.
+This project was built directly in github using html, css, and javascript. Atom and Codepen were used to modify and test code before committing to github.
 
 The javascript function used to display the applicant information was the onclick event:
 
