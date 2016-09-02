@@ -25,7 +25,7 @@ The javascript function used to display the applicant information was the onclic
     
 Test
 ====
-Please follow the link to see the above javascript in action:
+Please follow the link to see the test javascript demonstrated:
 
 http://js.do/code/mathewjones
 
