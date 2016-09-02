@@ -34,5 +34,5 @@ Use
 
 To use this web application please follow the link below and click on one of the applicant's names displayed on button on the left hand side of the page. Once clicked the candidate's information will be displayed on the right hand side of the screen. 
 
-https://ar7d.github.io/Test/
+https://ar7d.github.io/Project/
 
