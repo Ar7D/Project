@@ -1,7 +1,7 @@
 Project: Simple Web Application 
 ===============================
 
-**This simple website that shows a list of applicants for a job. When you click on an applicant's name, it takes you to more information about that candidate, including their name, date of birth and a summary of their work experience.**
+**This simple website shows a list of applicants for a job. When you click on an applicant's name, it takes you to more information about that candidate, including their name, date of birth and a summary of their work experience.**
 
 - This appliction uses javascript
 - It is based upon the GOV.UK frontend toolkit
@@ -29,5 +29,10 @@ Please follow the link to see the test javascript demonstrated:
 
 http://js.do/code/mathewjones
 
+USE
+===
 
+To use this web application please follow the link below and click on one of the applicant's names displayed on button on the left hand side of the page. Once clicked the candidate's information will be displayed on the right hand side of the screen. 
+
+https://ar7d.github.io/Test/
 
